@@ -1,0 +1,1 @@
+# calculating-salary-using-return-type-in-javascript-functions-ja
